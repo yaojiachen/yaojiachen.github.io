@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3544548.3580696,
+author = {Qin, Yue and Yu, Chun and Yao, Wentao and Yao, Jiachen and Liang, Chen and Weng, Yueting and Yan, Yukang and Shi, Yuanchun},
+title = {Selecting Real-World Objects via User-Perspective Phone Occlusion},
+year = {2023},
+isbn = {9781450394215},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3544548.3580696},
+doi = {10.1145/3544548.3580696},
+abstract = {Perceiving the region of interest (ROI) and target object by smartphones from the user’s first-person perspective can enable diverse spatial interactions. In this paper, we propose a novel ROI input method and a target selecting method for smartphones by utilizing the user-perspective phone occlusion. This concept of turning the phone into real-world physical cursor benefits from the proprioception, gets rid of the constraint of camera preview, and allows users to rapidly and accurately select the target object. Meanwhile, our method can provide a resizable and rotatable rectangular ROI to disambiguate dense targets. We implemented the prototype system by positioning the user’s iris with the front camera and estimating the rectangular area blocked by the phone with the rear camera simultaneously, followed by a target prediction algorithm with the distance-weighted Jaccard index. We analyzed the behavioral models of using our method and evaluated our prototype system’s pointing accuracy and usability. Results showed that our method is well-accepted by the users for its convenience, accuracy, and efficiency.},
+booktitle = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
+articleno = {531},
+numpages = {13},
+keywords = {object selection, smartphone interaction},
+location = {<conf-loc>, <city>Hamburg</city>, <country>Germany</country>, </conf-loc>},
+series = {CHI '23}
+}

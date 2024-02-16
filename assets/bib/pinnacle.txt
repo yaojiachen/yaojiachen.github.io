@@ -1,0 +1,6 @@
+@article{hao2023pinnacle,
+  title={PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs},
+  author={Hao, Zhongkai and Yao, Jiachen and Su, Chang and Su, Hang and Wang, Ziao and Lu, Fanzhi and Xia, Zeyu and Zhang, Yichi and Liu, Songming and Lu, Lu and others},
+  journal={arXiv preprint arXiv:2306.08827},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{yao2023multiadam,
+  title={Multiadam: Parameter-wise scale-invariant optimizer for multiscale training of physics-informed neural networks},
+  author={Yao, Jiachen and Su, Chang and Hao, Zhongkai and Liu, Songming and Su, Hang and Zhu, Jun},
+  journal={arXiv preprint arXiv:2306.02816},
+  year={2023}
+}
