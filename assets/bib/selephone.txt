@@ -1,0 +1,7 @@
+@inproceedings{qin2023selecting,
+  title={Selecting Real-World Objects via User-Perspective Phone Occlusion},
+  author={Qin, Yue and Yu, Chun and Yao, Wentao and Yao, Jiachen and Liang, Chen and Weng, Yueting and Yan, Yukang and Shi, Yuanchun},
+  booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
+  pages={1--13},
+  year={2023}
+}

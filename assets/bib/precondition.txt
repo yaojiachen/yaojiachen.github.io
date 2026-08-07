@@ -1,0 +1,6 @@
+@article{liu2024preconditioning,
+  title={Preconditioning for Physics-Informed Neural Networks},
+  author={Liu, Songming and Su, Chang and Yao, Jiachen and Hao, Zhongkai and Su, Hang and Wu, Youjia and Zhu, Jun},
+  journal={arXiv preprint arXiv:2402.00531},
+  year={2024}
+}

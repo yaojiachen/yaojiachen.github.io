@@ -1,0 +1,8 @@
+@inproceedings{
+ju2026functionspace,
+title={Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage},
+author={Xin Ju and Jiachen Yao and Anima Anandkumar and Sally M Benson and Gege Wen},
+booktitle={AI{\&}PDE: ICLR 2026 Workshop on AI and Partial Differential Equations},
+year={2026},
+url={https://openreview.net/forum?id=F7Xo8QRc9N}
+}

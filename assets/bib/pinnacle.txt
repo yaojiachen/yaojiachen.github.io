@@ -1,0 +1,12 @@
+@inproceedings{NEURIPS2024_8c63299f,
+  author = {Hao, Zhongkai and Yao, Jiachen and Su, Chang and Su, Hang and Wang, Ziao and Lu, Fanzhi and Xia, Zeyu and Zhang, Yichi and Liu, Songming and Lu, Lu and Zhu, Jun},
+  booktitle = {Advances in Neural Information Processing Systems},
+  doi = {10.52202/079017-2442},
+  editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+  pages = {76721--76774},
+  publisher = {Curran Associates, Inc.},
+  title = {PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/8c63299fb2820ef41cb05e2ff11836f5-Paper-Datasets_and_Benchmarks_Track.pdf},
+  volume = {37},
+  year = {2024}
+}
