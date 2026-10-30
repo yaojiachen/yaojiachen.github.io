@@ -1,0 +1,9 @@
+@misc{yao2026pathfm,
+    title = {{PathFM}: Fast Generative Forecasting of Multivariate Trajectories},
+    author = {Jiachen Yao and Xiyuan Zhang and Annan Yu and Boran Han and Abdul Fatir Ansari and Shuai Zhang and Michael Bohlke-Schneider and Bernie Wang},
+    year = {2026},
+    eprint = {2610.22358},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.LG},
+    url = {https://arxiv.org/abs/2610.22358}
+}

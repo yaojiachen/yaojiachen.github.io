@@ -1,0 +1,11 @@
+@inproceedings{qin2026geowind2plan,
+    title = {{GeoWind2Plan}: Mission-Time {3D} Urban Wind Prediction for Energy-Efficient {UAV} Planning},
+    author = {Shaoxiang Qin and Xiongye Xiao and Yucheng Zhao and Fuyuan Lyu and Di Zhou and Jiachen Yao and Xue Liu and Anima Anandkumar and Liangzhu Leon Wang},
+    booktitle = {Advances in Neural Information Processing Systems},
+    year = {2026},
+    note = {Spotlight},
+    eprint = {2609.36056},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.AI},
+    url = {https://arxiv.org/abs/2609.36056}
+}

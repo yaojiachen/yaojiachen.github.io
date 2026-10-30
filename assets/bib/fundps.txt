@@ -1,0 +1,7 @@
+@inproceedings{yao2025guideddiffusionsamplingfunction,
+    author={Jiachen Yao and Abbas Mammadov and Julius Berner and Gavin Kerrigan and Jong Chul Ye and Kamyar Azizzadenesheli and Anima Anandkumar},
+    booktitle = {Advances in Neural Information Processing Systems},
+    title={Guided Diffusion Sampling on Function Spaces with Applications to PDEs}, 
+    url = {https://arxiv.org/abs/2505.17004}, 
+    year = {2025}
+}

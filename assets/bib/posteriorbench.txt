@@ -1,0 +1,10 @@
+@inproceedings{yao2026posteriorbench,
+    title = {{PosteriorBench}: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers},
+    author = {Jiachen Yao and Zi-Siang Hsu and Xi Deng and Aditi Gupta and Xin Ju and Sally M. Benson and Gege Wen and Anima Anandkumar},
+    booktitle = {Advances in Neural Information Processing Systems},
+    year = {2026},
+    eprint = {2609.20794},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.LG},
+    url = {https://arxiv.org/abs/2609.20794}
+}

@@ -1,0 +1,10 @@
+@article{
+nguyen2026selfsupervised,
+title={Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data},
+author={Duy Nguyen and Jiachen Yao and Jiayun Wang and Julius Berner and Anima Anandkumar},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=YAYW9Y173z},
+note={Expert Certification}
+}

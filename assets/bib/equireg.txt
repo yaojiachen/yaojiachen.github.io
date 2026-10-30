@@ -1,0 +1,8 @@
+@inproceedings{
+tolooshams2025equireg,
+title={EquiReg: Symmetry-Driven Regularization for Physically Grounded Diffusion-based Inverse Solvers},
+author={Bahareh Tolooshams and Aditi Chandrashekar and Rayhan Zirvi and Abbas Mammadov and Jiachen Yao and Chuwei Wang and Anima Anandkumar},
+booktitle={Building Physically Plausible World Models},
+year={2025},
+url={https://arxiv.org/abs/2505.22973}
+}

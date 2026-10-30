@@ -1,0 +1,8 @@
+@inproceedings{
+lin2026decoupled,
+title={Decoupled Diffusion Solver for Inverse Problems on Function Spaces},
+author={Thomas Y.L. Lin and Jiachen Yao and Lufang Chiang and Julius Berner and Anima Anandkumar},
+booktitle={AI{\&}PDE: ICLR 2026 Workshop on AI and Partial Differential Equations},
+year={2026},
+url={https://openreview.net/forum?id=LE8KiqiJlJ}
+}

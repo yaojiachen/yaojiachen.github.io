@@ -1,0 +1,10 @@
+@inproceedings{chiang2026physicsbestteacher,
+    title = {Physics is the Best Teacher: Consistency Learning for Time-Invariant Operators of Chaotic Dynamics},
+    author = {Lufang Chiang and Jiachen Yao and Thomas Y. L. Lin and Anima Anandkumar},
+    booktitle = {NeurIPS Workshop on AI for Stochastic Dynamics},
+    year = {2026},
+    eprint = {2610.04108},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.LG},
+    url = {https://arxiv.org/abs/2610.04108}
+}
